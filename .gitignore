@@ -39,3 +39,8 @@ app-example
 
 *.keystore
 credentials.json
+
+*.apk
+*.tar.gz
+
+.env
